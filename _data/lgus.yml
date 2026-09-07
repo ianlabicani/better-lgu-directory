@@ -948,9 +948,11 @@
   maintainer: "[@hiroqt](https://github.com/hiroqt)"
 - name: "Pagsanjan, Laguna"
   domain: "-"
-  repo: "-"
+  repo: "[GitHub](https://github.com/rswlljms/betterpagsanjan)"
+  repo_owner: "rswlljms"
+  repo_name: "betterpagsanjan"
   socials: []
-  status: "🔵 Planned"
+  status: "🟡 Work in Progress"
   stale: false
   open_for_adoption: false
   maintainer: "[@rswlljms](https://github.com/rswlljms)"
