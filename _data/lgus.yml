@@ -528,12 +528,12 @@
   open_for_adoption: false
   maintainer: "[@JericoGarcia21](https://github.com/JericoGarcia21)"
 - name: "Mapandan, Pangasinan"
-  domain: "-"
+  domain: "[bettermapandan.org](https://www.bettermapandan.org/)"
   repo: "[GitHub](https://github.com/jadolation/bettermapandan)"
   repo_owner: "jadolation"
   repo_name: "bettermapandan"
   socials: []
-  status: "🔵 Planned"
+  status: "🟢 Active"
   stale: false
   open_for_adoption: false
   maintainer: "[@jadolation](https://github.com/jadolation)"
