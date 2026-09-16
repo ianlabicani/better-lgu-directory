@@ -38,6 +38,16 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@xpall](https://github.com/xpall)"
+- name: "Pila, Laguna"
+  domain: "-"
+  repo: "[GitHub](https://github.com/Necookie/betterpila)"
+  repo_owner: "Necookie"
+  repo_name: "betterpila"
+  socials: []
+  status: "🟡 Work in Progress"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@Necookie](https://github.com/Necookie)"
 - name: "Ormoc City, Leyte"
   domain: "[betterormoc.org](https://www.betterormoc.org/en)"
   repo: "-"
