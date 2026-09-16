@@ -1063,3 +1063,13 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@njveneracion](https://github.com/njveneracion)"
+- name: "Liliw, Laguna"
+  domain: "-"
+  repo: "[GitHub](https://github.com/BetterLiliw/betterliliw)"
+  repo_owner: "BetterLiliw"
+  repo_name: "betterliliw"
+  socials: []
+  status: "🟡 Work in Progress"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@Kiko915](https://github.com/Kiko915), [@johnchristiancoronacion](https://github.com/johnchristiancoronacion)"
