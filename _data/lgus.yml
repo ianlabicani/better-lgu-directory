@@ -980,10 +980,12 @@
   open_for_adoption: false
   maintainer: "[@iyawnnn](https://github.com/iyawnnn)"
 - name: "Inabanga, Bohol"
-  domain: "-"
-  repo: "-"
+  domain: "[betterinabanga.vercel.app](https://betterinabanga.vercel.app)"
+  repo: "[GitHub](https://github.com/gerardosocias29/betterinabanga)"
+  repo_owner: "gerardosocias29"
+  repo_name: "betterinabanga"
   socials: []
-  status: "🔵 Planned"
+  status: "🟡 Work in Progress"
   stale: false
   open_for_adoption: false
   maintainer: "[@gerardosocias29](https://github.com/gerardosocias29)"
