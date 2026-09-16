@@ -1008,12 +1008,12 @@
   open_for_adoption: false
   maintainer: "[@migi-macati](https://github.com/migi-macati)"
 - name: "San Carlos City, Pangasinan"
-  domain: "-"
+  domain: "[bettersancarlos.vercel.app](https://bettersancarlos.vercel.app/)"
   repo: "[GitHub](https://github.com/edisonmalasan/bettersancarlos)"
   repo_owner: "edisonmalasan"
   repo_name: "bettersancarlos"
   socials: []
-  status: "🟡 Work in Progress"
+  status: "🟢 Active"
   stale: false
   open_for_adoption: false
   maintainer: "[@edisonmalasan](https://github.com/edisonmalasan)"
