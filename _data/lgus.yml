@@ -1025,3 +1025,13 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@jaylothai](https://github.com/jaylothai)"
+- name: "Santa Cruz, Laguna"
+  domain: "-"
+  repo: "[GitHub](https://github.com/BetterSantaCruz/betterstacruzlaguna)"
+  repo_owner: "BetterSantaCruz"
+  repo_name: "betterstacruzlaguna"
+  socials: []
+  status: "🟡 Work in Progress"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@Diannn3](https://github.com/Diannn3)"
