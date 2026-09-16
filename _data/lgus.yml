@@ -1043,3 +1043,13 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@loudaboi](https://github.com/loudaboi)"
+- name: "Tabaco City, Albay"
+  domain: "-"
+  repo: "[GitHub](https://github.com/johnjoshualipio/bettertabaco)"
+  repo_owner: "johnjoshualipio"
+  repo_name: "bettertabaco"
+  socials: []
+  status: "🟡 Work in Progress"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@johnjoshualipio](https://github.com/johnjoshualipio)"
