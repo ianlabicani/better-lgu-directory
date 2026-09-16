@@ -1015,3 +1015,11 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@edisonmalasan](https://github.com/edisonmalasan)"
+- name: "Mandaue City, Cebu"
+  domain: "-"
+  repo: "-"
+  socials: []
+  status: "🔵 Planned"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@jaylothai](https://github.com/jaylothai)"
