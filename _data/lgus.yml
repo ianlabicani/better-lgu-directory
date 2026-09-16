@@ -1089,3 +1089,16 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@theheavenlyhacker](https://github.com/theheavenlyhacker)"
+- name: "Maasin City, Southern Leyte"
+  domain: "[bettermaasin.netlify.app](https://bettermaasin.netlify.app)"
+  repo: "[GitHub](https://github.com/bettermaasin/BetterMaasin)"
+  repo_owner: "bettermaasin"
+  repo_name: "BetterMaasin"
+  socials:
+    - platform: "facebook"
+      label: "Facebook"
+      url: "https://www.facebook.com/bettermaasin.org"
+  status: "🟡 Work in Progress"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@derkandre](https://github.com/derkandre)"
