@@ -1053,3 +1053,13 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@johnjoshualipio](https://github.com/johnjoshualipio)"
+- name: "Rizal, Nueva Ecija"
+  domain: "-"
+  repo: "[GitHub](https://github.com/njveneracion/betterrizalne)"
+  repo_owner: "njveneracion"
+  repo_name: "betterrizalne"
+  socials: []
+  status: "🔵 Planned"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@njveneracion](https://github.com/njveneracion)"
