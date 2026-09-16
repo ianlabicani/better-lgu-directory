@@ -1130,3 +1130,13 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@jericizon](https://github.com/jericizon)"
+- name: "Roxas City, Capiz"
+  domain: "-"
+  repo: "[GitHub](https://github.com/chariz1101/betterroxas)"
+  repo_owner: "chariz1101"
+  repo_name: "betterroxas"
+  socials: []
+  status: "🔵 Planned"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@chariz1101](https://github.com/chariz1101)"
