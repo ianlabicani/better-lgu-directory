@@ -1120,3 +1120,13 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@zenabus](https://github.com/zenabus)"
+- name: "City of Santa Rosa, Laguna"
+  domain: "-"
+  repo: "[GitHub](https://github.com/jericizon/bettersantarosacity)"
+  repo_owner: "jericizon"
+  repo_name: "bettersantarosacity"
+  socials: []
+  status: "🔵 Planned"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@jericizon](https://github.com/jericizon)"
